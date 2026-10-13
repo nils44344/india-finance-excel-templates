@@ -1,5 +1,8 @@
 # India Finance Excel Templates
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23349745.svg)](https://doi.org/10.5281/zenodo.23349745)
+
+
 Free Excel templates for common Indian personal-finance decisions. Every sheet uses live formulas: change the yellow cells and the green cells recalculate.
 
 | Template | What it answers | Live version |
@@ -20,3 +23,7 @@ Worked check (in the template defaults): â‚¹30 lakh, 240 EMIs left, rate 8.25% â
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use, share and adapt, including commercially, with credit to [PaisaTools](https://paisatools.co.in).
 
 Estimates for planning, not financial advice. Check your own loan terms with your lender.
+
+
+## Cite
+PaisaTools (2026). DOI: [10.5281/zenodo.23349745](https://doi.org/10.5281/zenodo.23349745)
