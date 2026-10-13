@@ -1,0 +1,27 @@
+{
+ "title": "India Finance Excel Templates",
+ "description": "Free Excel templates for Indian personal-finance decisions: reduce EMI or tenure (prepayment and RBI rate reset, with a letter to the bank), a 1 lakh savings planner, and EPF interest for one year from the current balance. Live calculators at https://paisatools.co.in",
+ "upload_type": "software",
+ "creators": [
+  {
+   "name": "PaisaTools"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "access_right": "open",
+ "keywords": [
+  "India",
+  "personal finance",
+  "Excel",
+  "home loan",
+  "EMI",
+  "EPF"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "https://paisatools.co.in/reduce-emi-or-tenure-calculator",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  }
+ ]
+}
